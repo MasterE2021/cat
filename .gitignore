@@ -8,6 +8,8 @@
 *.ipr
 *.iws
 /lib/java/target/*
+docker/mysql/volume
+src/main/resources/META-INF/plexus
 
 # Hidden files
 .*
